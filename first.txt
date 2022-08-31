@@ -1,4 +1,4 @@
-I'm some text at the beginning
+I'm some words at the beginning
 
 Here is my first file.
 It has some text.
